@@ -1,0 +1,34 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Build
+target/
+build/
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+log4j.properties
+
+# Environment
+.env
+.env.local
+
+# Temp
+*.tmp
+.classpath
+.project
+.settings/
